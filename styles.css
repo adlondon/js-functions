@@ -1,0 +1,12 @@
+.readTime {
+
+background-color: green;
+display: inline-block;
+color: white;
+padding: 10px;
+border-radius: 8px;
+posiiton: fixed;
+position: fixed;
+top: 5px;
+right: 25px;
+}
